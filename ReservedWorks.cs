@@ -1,0 +1,13 @@
+using System;
+public class ReservedWorks
+{
+    /// <summary>
+    /// reference in page https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/keywords/
+    /// </summary>
+
+    public string[] KeyWords = {"abstract", "as", "base","bool","break","byte","case","catch","char","checked","class","const","continue","decimal","default",
+    "delegate","do","double","else","enum","event","explicit","extern","false","finally","fixed","float","goto","if","implicit","in","int","interface","internal",
+    "is","lock","long","namespace","new","null","object","operator","out","override","params","private","protected","public","readonly","ref","return","sbyte",
+    "sealed","short","sizeof","stackalloc","static","string","struct","switch","this","throw","true","try","typeof","uint","ulong","unchecked","unsafe","ushort",
+    "using","virtual","volatile","void","while"};
+}

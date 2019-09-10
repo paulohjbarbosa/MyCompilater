@@ -1,0 +1,11 @@
+C:\MyCompilater\bin\Debug\netcoreapp2.2\MyCompilater.deps.json
+C:\MyCompilater\bin\Debug\netcoreapp2.2\MyCompilater.runtimeconfig.json
+C:\MyCompilater\bin\Debug\netcoreapp2.2\MyCompilater.runtimeconfig.dev.json
+C:\MyCompilater\bin\Debug\netcoreapp2.2\MyCompilater.dll
+C:\MyCompilater\bin\Debug\netcoreapp2.2\MyCompilater.pdb
+C:\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.csprojAssemblyReference.cache
+C:\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.csproj.CoreCompileInputs.cache
+C:\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.AssemblyInfoInputs.cache
+C:\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.AssemblyInfo.cs
+C:\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.dll
+C:\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.pdb
