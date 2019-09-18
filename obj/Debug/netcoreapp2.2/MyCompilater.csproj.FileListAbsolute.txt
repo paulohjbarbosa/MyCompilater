@@ -9,3 +9,14 @@ C:\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.AssemblyInfoInputs.cache
 C:\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.AssemblyInfo.cs
 C:\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.dll
 C:\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.pdb
+D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\bin\Debug\netcoreapp2.2\MyCompilater.deps.json
+D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\bin\Debug\netcoreapp2.2\MyCompilater.runtimeconfig.json
+D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\bin\Debug\netcoreapp2.2\MyCompilater.runtimeconfig.dev.json
+D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\bin\Debug\netcoreapp2.2\MyCompilater.dll
+D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\bin\Debug\netcoreapp2.2\MyCompilater.pdb
+D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.csprojAssemblyReference.cache
+D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.csproj.CoreCompileInputs.cache
+D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.AssemblyInfoInputs.cache
+D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.AssemblyInfo.cs
+D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.dll
+D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.pdb

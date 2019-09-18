@@ -1,22 +1,2 @@
-string nome = "Macoratti";
-	if ( nome == "Pedro" )
-	{
-		Console.WriteLine( "Você esta no bloco 'if'" );
-	}
-	else
-	{
-		Console.WriteLine( "Você esta no bloco 'else'" );
-	}
-
-// Declaration only bloco II:
-float temperature;
-string name;
-MyClass myClass;
-
-// Declaration with initializers (four examples):
-char firstLetter = 'C';
-var limit = 3;
-int[] source = { 0, 1, 2, 3, 4, 5 };
-var query = from item in source
-            where item <= limit
-            select item;
+var a = 2 + 2 * 2;
+Console.WriteLine(a); //  output: 6

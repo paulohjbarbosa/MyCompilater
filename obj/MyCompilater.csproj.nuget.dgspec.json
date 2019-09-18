@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyCompilater\\MyCompilater.csproj": {}
+    "D:\\Faculdade\\Faculdade_2019\\2º Semestre\\Compiladores\\MyCompilater\\MyCompilater.csproj": {}
   },
   "projects": {
-    "C:\\MyCompilater\\MyCompilater.csproj": {
+    "D:\\Faculdade\\Faculdade_2019\\2º Semestre\\Compiladores\\MyCompilater\\MyCompilater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyCompilater\\MyCompilater.csproj",
+        "projectUniqueName": "D:\\Faculdade\\Faculdade_2019\\2º Semestre\\Compiladores\\MyCompilater\\MyCompilater.csproj",
         "projectName": "MyCompilater",
-        "projectPath": "C:\\MyCompilater\\MyCompilater.csproj",
-        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\MyCompilater\\obj\\",
+        "projectPath": "D:\\Faculdade\\Faculdade_2019\\2º Semestre\\Compiladores\\MyCompilater\\MyCompilater.csproj",
+        "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
+        "outputPath": "D:\\Faculdade\\Faculdade_2019\\2º Semestre\\Compiladores\\MyCompilater\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
