@@ -1,10 +1,9 @@
-Compilador
-=============
+#Compilador
+
 ## Objetivo
 Esse projeto tem como objetivo criar um compiliador da linguagem de programação **C#** para a linguagem de programação **Python**.
 
 ## Estrutura
-=============
 A estrutura desse projeto será divida em divida em 6 fases:
 1 `Análise Léxica` **Análise léxica** é o processo de analisar a entrada de linhas de caracteres (tal como o código-fonte de um programa de computador) e produzir uma sequência de símbolos chamado "símbolos léxicos" (lexical tokens), ou somente "símbolos" (tokens), que podem ser manipulados mais facilmente por um parser (leitor de saída).
 
@@ -21,7 +20,6 @@ código intermediário com o objetivo de produzir um código objeto melhor.
 6 `Geração de Código` A **Geração de Código** Mapeia a representação intermediária do código-fonte em uma linguagem objeto.
 
 ## Tecnologia
-=============
 * C#
 
 ## IDE
