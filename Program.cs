@@ -35,9 +35,10 @@ namespace MyCompilater
                 string[] tokens = l.Split(' ');
                 
                 /* VERIFICA SE A 1ª POSIÇÃO É UMA PALAVRA RESERVADA OU VARIÁVEL */
-                if (!metodos.IsReservedWorks(tokens[0]) || !variaveis.Contains(tokens[0]))
+                if (!metodos.IsReservedWorks(tokens[0]) && !variaveis.Contains(tokens[0]))
                 {
                     Console.WriteLine("O nome '{0}' não existe no contexto atual",tokens[0]);
+                    
                 }
                 token.Add(l);
                 // Console.WriteLine (linha);
