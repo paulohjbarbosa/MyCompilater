@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Faculdade\\Faculdade_2019\\2º Semestre\\Compiladores\\MyCompilater\\MyCompilater.csproj": {}
+    "D:\\projetos\\mycompilater\\MyCompilater.csproj": {}
   },
   "projects": {
-    "D:\\Faculdade\\Faculdade_2019\\2º Semestre\\Compiladores\\MyCompilater\\MyCompilater.csproj": {
+    "D:\\projetos\\mycompilater\\MyCompilater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Faculdade\\Faculdade_2019\\2º Semestre\\Compiladores\\MyCompilater\\MyCompilater.csproj",
+        "projectUniqueName": "D:\\projetos\\mycompilater\\MyCompilater.csproj",
         "projectName": "MyCompilater",
-        "projectPath": "D:\\Faculdade\\Faculdade_2019\\2º Semestre\\Compiladores\\MyCompilater\\MyCompilater.csproj",
+        "projectPath": "D:\\projetos\\mycompilater\\MyCompilater.csproj",
         "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-        "outputPath": "D:\\Faculdade\\Faculdade_2019\\2º Semestre\\Compiladores\\MyCompilater\\obj\\",
+        "outputPath": "D:\\projetos\\mycompilater\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,10 +49,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

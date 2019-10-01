@@ -20,3 +20,13 @@ D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\obj\Debug\net
 D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.AssemblyInfo.cs
 D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.dll
 D:\Faculdade\Faculdade_2019\2º Semestre\Compiladores\MyCompilater\obj\Debug\netcoreapp2.2\MyCompilater.pdb
+D:\projetos\mycompilater\bin\Debug\netcoreapp2.2\MyCompilater.deps.json
+D:\projetos\mycompilater\bin\Debug\netcoreapp2.2\MyCompilater.runtimeconfig.json
+D:\projetos\mycompilater\bin\Debug\netcoreapp2.2\MyCompilater.runtimeconfig.dev.json
+d:\projetos\mycompilater\bin\Debug\netcoreapp2.2\MyCompilater.dll
+d:\projetos\mycompilater\bin\Debug\netcoreapp2.2\MyCompilater.pdb
+d:\projetos\mycompilater\obj\Debug\netcoreapp2.2\MyCompilater.csprojAssemblyReference.cache
+d:\projetos\mycompilater\obj\Debug\netcoreapp2.2\MyCompilater.AssemblyInfoInputs.cache
+d:\projetos\mycompilater\obj\Debug\netcoreapp2.2\MyCompilater.AssemblyInfo.cs
+d:\projetos\mycompilater\obj\Debug\netcoreapp2.2\MyCompilater.dll
+d:\projetos\mycompilater\obj\Debug\netcoreapp2.2\MyCompilater.pdb

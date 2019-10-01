@@ -2,29 +2,48 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MyCompilater {
-    class Program {
-        static void Main (string[] args) {
-            //Console.WriteLine(Environment.CurrentDirectory);
+namespace MyCompilater
+{
+    class Program
+    {
+
+        public static Metodos metodos = new Metodos();
+
+        static void Main(string[] args)
+        {
+
             string path = Environment.CurrentDirectory + @"\file\example.txt";
-            Console.WriteLine (path);
-            string[] lines = System.IO.File.ReadAllLines (path, Encoding.ASCII);
+
+            string[] lines = System.IO.File.ReadAllLines(path, Encoding.ASCII);
             string text = string.Empty;
-            List<string> bloco = new List<string> ();
+
+            /*LISTAS */
+            List<string> token = new List<string>();
+            List<string> variaveis = new List<string>();
+
             /* REMOVE QUEBRA DE LINHA */
-            foreach (string line in lines) {
-                text += line.Trim ().Replace ("\n", string.Empty);
+            foreach (string line in lines)
+            {
+                text += line.Trim().Replace("\n", string.Empty);
             }
 
-            string[] push_back = text.Split (';');
+             string[] push_back = text.Split(';');
 
-            foreach (var linha in push_back) {
-                bloco.Add (linha);
-                Console.WriteLine (linha);
+
+            foreach (var l in push_back)
+            {
+                string[] tokens = l.Split(' ');
+                
+                /* VERIFICA SE A 1ª POSIÇÃO É UMA PALAVRA RESERVADA OU VARIÁVEL */
+                if (!metodos.IsReservedWorks(tokens[0]) || !variaveis.Contains(tokens[0]))
+                {
+                    Console.WriteLine("O nome '{0}' não existe no contexto atual",tokens[0]);
+                }
+                token.Add(l);
+                // Console.WriteLine (linha);
             }
 
-            ReservedWorks rw = new ReservedWorks ();
-            string[] keywords = rw.KeyWords;
+
 
             /****** COMPARACAO *********/
 
