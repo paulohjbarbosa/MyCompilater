@@ -1,4 +1,4 @@
-#Compilador
+# Compilador
 
 ## Objetivo
 Esse projeto tem como objetivo criar um compiliador da linguagem de programação **C#** para a linguagem de programação **Python**.
