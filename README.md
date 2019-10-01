@@ -1,10 +1,11 @@
 # Compilador
 
 ## Objetivo
-Esse projeto tem como objetivo criar um compiliador da linguagem de programação **C#** para a linguagem de programação **Python**.
+Esse projeto tem como objetivo criar um compilador da linguagem de programação **C#** para a linguagem de programação **Python**.
 
 ## Estrutura
 A estrutura desse projeto será divida em divida em 6 fases:
+
 1 `Análise Léxica` **Análise léxica** é o processo de analisar a entrada de linhas de caracteres (tal como o código-fonte de um programa de computador) e produzir uma sequência de símbolos chamado "símbolos léxicos" (lexical tokens), ou somente "símbolos" (tokens), que podem ser manipulados mais facilmente por um parser (leitor de saída).
 
 2 `Análise Sintática` O **analisador sintático** utiliza os primeiros componentes dos tokens produzidos pelo analisador léxico para criar uma representação intermediária tipo árvore.
