@@ -4,7 +4,7 @@
 Esse projeto tem como objetivo criar um compilador da linguagem de programação **C#** para a linguagem de programação **Python**.
 
 ## Estrutura
-A estrutura desse projeto será divida em divida em 6 fases:
+A estrutura desse projeto será divida em 6 fases:
 
 **1** - `Análise Léxica` **Análise léxica** é o processo de analisar a entrada de linhas de caracteres (tal como o código-fonte de um programa de computador) e produzir uma sequência de símbolos chamado "símbolos léxicos" (lexical tokens), ou somente "símbolos" (tokens), que podem ser manipulados mais facilmente por um parser (leitor de saída).
 
@@ -22,6 +22,11 @@ código intermediário com o objetivo de produzir um código objeto melhor.
 
 ## Tecnologia
 * C#
+* SDK do .NET Core
+```
+Version:   3.0.100
+Commit:    04339c3a26
+```
 
 ## IDE
 * Visual Studio Code
