@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projetos\\mycompilater\\MyCompilater.csproj": {}
+    "D:\\projetos\\MyCompilater\\MyCompilater.csproj": {}
   },
   "projects": {
-    "D:\\projetos\\mycompilater\\MyCompilater.csproj": {
+    "D:\\projetos\\MyCompilater\\MyCompilater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projetos\\mycompilater\\MyCompilater.csproj",
+        "projectUniqueName": "D:\\projetos\\MyCompilater\\MyCompilater.csproj",
         "projectName": "MyCompilater",
-        "projectPath": "D:\\projetos\\mycompilater\\MyCompilater.csproj",
+        "projectPath": "D:\\projetos\\MyCompilater\\MyCompilater.csproj",
         "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-        "outputPath": "D:\\projetos\\mycompilater\\obj\\",
+        "outputPath": "D:\\projetos\\MyCompilater\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

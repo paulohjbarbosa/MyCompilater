@@ -1,2 +1,2 @@
-var a = 2 + 2 * 2;
-Console.WriteLine(a); //  output: 6
+var a;
+a= 2 +2 * 2;

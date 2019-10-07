@@ -21,7 +21,7 @@ código intermediário com o objetivo de produzir um código objeto melhor.
 **6** - `Geração de Código` A **Geração de Código** Mapeia a representação intermediária do código-fonte em uma linguagem objeto.
 
 ## Tecnologia
-* C#
+* C# 7.3
 * SDK do .NET Core
 ```
 Version:   3.0.100
